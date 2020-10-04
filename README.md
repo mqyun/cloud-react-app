@@ -69,4 +69,4 @@ const routerConfig: IRouterConfig[] = [];
 
 ### 详细文档使用
 
-[点击查看文档](https://github.com/mqyun/cloud-lib/blob/94764a06b26ccce7580fcec977602ebee6914c91/README.md)
+[点击查看文档](https://github.com/mqyun/cloud-lib/blob/master/README.md)
